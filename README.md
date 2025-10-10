@@ -2,7 +2,7 @@
 ## Date:28/09/2025
 
 ## AIM
-To write a html webpage page to display your slot timetable.
+To write a html webpage to display your slot timetable.
 
 ## ALGORITHM
 ### STEP 1
